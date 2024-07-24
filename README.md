@@ -13,16 +13,19 @@ Google Collab
 Surprisingly the run times were not consistent for each review of the code. Results of the last three runs are documented below. 
 
 - First Round
+  
 Initial time: 0.827 seconds,
 Cached time: 0.769 seconds,
 Parqueted time: 1.15 seconds
 
 - Second Round
+  
 Initial time: 1.81 seconds,
 Cached time: 1.08 seconds,
 Parqueted time: 0.84 seconds
 
 - Third Round
+  
 Initial time: 1.15 seconds,
 Cached time: 0.97 seconds,
 Parqueted time: 0.55 seconds
