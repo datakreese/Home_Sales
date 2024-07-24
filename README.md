@@ -12,21 +12,21 @@ Surprisingly the run times were not consistent for each review of the code. Resu
 
 - First Round
   
-Initial time: 0.827 seconds,
-Cached time: 0.769 seconds,
-Parqueted time: 1.15 seconds
+  Initial time: 0.827 seconds,
+  Cached time: 0.769 seconds,
+  Parqueted time: 1.15 seconds
 
 - Second Round
   
-Initial time: 1.81 seconds,
-Cached time: 1.08 seconds,
-Parqueted time: 0.84 seconds
+  Initial time: 1.81 seconds,
+  Cached time: 1.08 seconds,
+  Parqueted time: 0.84 seconds
 
 - Third Round
   
-Initial time: 1.15 seconds,
-Cached time: 0.97 seconds,
-Parqueted time: 0.55 seconds
+  Initial time: 1.15 seconds,
+  Cached time: 0.97 seconds,
+  Parqueted time: 0.55 seconds
 
 This code was developed in google collab without TensorFlow downloaded locally. For maximum efficiency device setup would need to be re-considered.
 
