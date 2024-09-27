@@ -1,6 +1,6 @@
 # Home Sales Big Data Query Analysis
 ## Overview
-This big data analysis is designed to test the processing differences of parqueting, partitioning, and cacheing. The data features fictinoal home sales information based on construction specs, property type, and age.
+This big data analysis is designed to test the processing differences of parqueting, partitioning, and cacheing. The data features fictional home sales information based on construction specs, property type, and age.
 
 ## Tech Stack
 - pyspark.sql
