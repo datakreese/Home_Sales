@@ -1,13 +1,13 @@
 # Home Sales Big Data Query Analysis
-# Overview
+## Overview
 This big data analysis is designed to test the processing differences of parqueting, partitioning, and cacheing. The data features fictinoal home sales information based on construction specs, property type, and age.
 
-# Tech Stack
+## Tech Stack
 - pyspark.sql
 - pyspark
 - Google Collab
 
-# Results 
+## Results 
 Surprisingly the run times were not consistent for each review of the code. Results of the last three runs are documented below. 
 
 - First Round
@@ -30,7 +30,9 @@ Surprisingly the run times were not consistent for each review of the code. Resu
 
 This code was developed in google collab without TensorFlow downloaded locally. For maximum efficiency device setup would need to be re-considered.
 
-# Application
-It appears caching and parqueting the data does yeild measurable benefit for processing speed. The Jupyter Notebook is now availabe for any further queries.
+## Application
+It appears caching and parqueting the data does yield measurable benefit for processing speed. The Jupyter Notebook is now availabe for any further queries.
 
-# Usage
+## Usage
+See License for copyright details.
+
